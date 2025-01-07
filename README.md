@@ -63,7 +63,7 @@ The forecasting process involves the following steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/Arijeet-10/Deep-Think-by-RKMVERI.git
     ```
 
 2. **Install required packages:**

@@ -86,7 +86,7 @@ The forecasting process involves the following steps:
 
 ## Author
 
-Shuvam Podder
+Shuvam Podder , Arijeet Das , Barshan Banerjee
 
 ## License
 
